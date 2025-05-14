@@ -1,1 +1,1 @@
-alguma coisa
+Primeiro dia usando o Git e Github!
